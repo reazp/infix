@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9833" started-at="2015-01-30T01:36:54Z" finished-at="2015-01-30T01:37:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9833" started-at="2015-01-30T01:36:54Z" finished-at="2015-01-30T01:37:04Z">
+      <class name="com.infix.test.LoginTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.infix.test.LoginTest@60cb9c42]" name="setup" is-config="true" duration-ms="8555" started-at="2015-01-29T20:36:55Z" finished-at="2015-01-29T20:37:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.infix.test.LoginTest@60cb9c42]" name="loginTest" duration-ms="1206" started-at="2015-01-29T20:37:03Z" finished-at="2015-01-29T20:37:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDowan()[pri:0, instance:com.infix.test.LoginTest@60cb9c42]" name="tearDowan" is-config="true" duration-ms="35" started-at="2015-01-29T20:37:04Z" finished-at="2015-01-29T20:37:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDowan -->
+      </class> <!-- com.infix.test.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
